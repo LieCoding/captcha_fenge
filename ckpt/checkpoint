@@ -1,0 +1,6 @@
+model_checkpoint_path: "CNN.ckpt-13000"
+all_model_checkpoint_paths: "CNN.ckpt-9000"
+all_model_checkpoint_paths: "CNN.ckpt-10000"
+all_model_checkpoint_paths: "CNN.ckpt-11000"
+all_model_checkpoint_paths: "CNN.ckpt-12000"
+all_model_checkpoint_paths: "CNN.ckpt-13000"
